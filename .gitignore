@@ -1,0 +1,9 @@
+.venv
+.idea
+mobilenet_ssd
+mylib
+optimization-group
+yolov8l.pt
+yolov8n.pt
+lap
+
